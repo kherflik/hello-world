@@ -9,6 +9,7 @@ export default function Home() {
       <Header headerText="Witaj Gatsby!" />
       <p>What a world.</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
+	  <h2>Test</h2>
     </div>
   )
 }
